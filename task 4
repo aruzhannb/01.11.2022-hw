@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c**2 = a**2 + b**2
+sqrt = (c**2)**0.5
+print(sqrt)
