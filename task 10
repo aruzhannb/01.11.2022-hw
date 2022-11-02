@@ -1,0 +1,8 @@
+x = float(input())
+p = int(input())
+y = float(input())
+while x < y:
+    x = (1+p)%10
+    years = int(100*x)%100
+    years = years + 1 
+    print(years)
